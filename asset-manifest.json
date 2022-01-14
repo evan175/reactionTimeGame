@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactionTimeGame/static/css/main.1bd3807b.css",
+    "main.js": "/reactionTimeGame/static/js/main.9c902ddf.js",
+    "static/media/ct.png": "/reactionTimeGame/static/media/ct.82801ca2d25636a92214.png",
+    "static/media/t.png": "/reactionTimeGame/static/media/t.dbb35c6f8d7e8973a2e3.png",
+    "index.html": "/reactionTimeGame/index.html",
+    "main.1bd3807b.css.map": "/reactionTimeGame/static/css/main.1bd3807b.css.map",
+    "main.9c902ddf.js.map": "/reactionTimeGame/static/js/main.9c902ddf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd3807b.css",
+    "static/js/main.9c902ddf.js"
+  ]
+}
