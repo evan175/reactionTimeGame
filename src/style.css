@@ -1,0 +1,39 @@
+#shooter{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 12%;
+}
+
+.message{
+    text-align: center;
+    vertical-align: text-top;
+    font-size: 35px;
+    color: blueviolet;
+    font-family: fantasy;
+}
+
+#time{
+    text-align: center;
+    vertical-align: text-bottom;
+    padding-top: 5%;
+    color: brown;
+    font-size: 35px;
+    font-family: serif;
+}
+
+#message2{
+    text-align: center;
+    vertical-align: text-bottom;
+    padding-top: 5%;
+    color: brown;
+    font-size: 15px;
+    font-family: serif;
+}
+
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(157, 255, 0));
+}
