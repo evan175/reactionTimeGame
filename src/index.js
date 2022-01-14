@@ -1,6 +1,6 @@
 /*
 A reaction time game created with react
-@author Ashraful Hoque
+@author evan175
 */
 
 import React from 'react';
